@@ -1,0 +1,62 @@
+.main
+{
+    background-color: antiquewhite;
+    height: 650px;
+    background-image: url("signup.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.header
+{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+    font-size: 30px;
+}
+.contentbox
+{
+   height: 500px;
+   /* background-color: aquamarine; */
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.content{
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    flex-direction: column;
+}
+button 
+{
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+    background-color: darkgoldenrod;
+}
+button:hover{
+    background-color:white;
+}
+#log
+{
+    color:rgb(255, 0, 0);
+    font-size: 22px;
+}
+#Account
+{
+    margin-left: 0px;
+}
+input{
+    /* border-color: rgb(63, 34, 34); */
+    font-size: 15px;
+    border-radius: 2px;
+}
+a{
+    margin-left: 15px;
+}
