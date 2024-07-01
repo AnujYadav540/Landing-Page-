@@ -1,0 +1,109 @@
+*
+{
+   /* color: white; */
+}
+.one
+ {
+    color:white;
+    text-decoration-color: white;
+    background-color: black; 
+    height:150px;
+    font-weight: bold;
+    font-size: 250%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    /* /* margin-bottom: non; */
+    /* text-decoration-style: none; */
+}
+
+a{
+    margin-left: 70px;
+    color: white;
+}
+#two
+{
+    color:crimson;
+}
+#seven
+{
+   margin-left: 50px;
+   font-size: 15px;
+  background-color: rgba(265,0,0,1);
+  width: 100px;
+  border-radius: 15px;
+  border-color: white;
+  height: 30px;
+}
+#eight
+{
+   margin-right: 80px; 
+   font-size: 15px;
+  background-color: rgb(1, 228, 1);
+  width: 100px;
+  border-radius: 15px;
+  border-color: white;
+  height: 30px;
+}
+#seven:hover{
+    background-color: white;
+}
+#eight:hover{
+    background-color: white;
+}
+#three
+{
+    height:60px;
+    margin-top: none;
+    color: red;
+    background-color: black;
+    font-size: 30px;
+    display: flex;
+    justify-content:start;
+    /* display:inline-block; */
+}
+#four
+{
+    margin: none;
+    height:600px;
+    width: 600px;
+    background-color: black;
+    color: antiquewhite;
+    display: block;
+    
+}
+
+.box{
+    height: 500px;
+    background-color: black;
+    display:flex;
+    justify-content: start;
+    }
+    #bo1
+    {
+        color: azure;
+        height:500px;
+        width: 650px;
+        background-color:black;
+    }
+    #bo2
+    {
+        height:500px;
+        width: 600px;
+        background-color:transparent;
+        background-image: url(iphone.jpg);
+        background-repeat: no-repeat;
+        background-size:cover;
+       
+        
+    }
+    #five
+    {
+        font-size: 70px;
+    }
+    #content
+    {
+        background-color: black;
+        height: 200px;
+    }
