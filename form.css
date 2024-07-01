@@ -1,0 +1,122 @@
+body{
+    background-color:goldenrod;
+    color: white ;
+   
+}
+#zero
+{
+    display: inline-block;
+    margin-left: 500px;
+    color:midnightblue;
+    font-weight: bold;
+}
+.navbar1
+{ 
+   /* background-color: black; */
+  height: 100px;
+ display: flex; 
+ color: black;
+ 
+}
+
+#one
+{
+    display: inline-block;
+    height: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#two
+{
+    display: inline-block;
+    margin-left: 400px;
+    height: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#three
+{
+    display: inline-block;
+    margin-left: 300px;
+    height: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.navbar2
+{
+    height: 20px;
+     display: flex; 
+}
+#five
+{
+   
+     margin-left: 400px; 
+     color: black;
+     font-size: 20px;
+   
+}
+.navbar3
+{
+    /* background-color:black ; */
+    height: 50px;
+      display: flex; 
+
+} 
+#Eight
+{
+    
+     margin-left: 400px;
+     color: black;
+     font-size: 20px;
+}
+.navbar4
+{
+    /* background-color:black ; */
+    height: 50px;
+      display: flex;
+      color: black;
+      font-size: 20px;
+}
+#ten
+{
+    margin-left: 400px;
+    color: black;
+    font-size: 20px;
+}
+.navbar5
+{
+    /* background-color:black ; */
+    height: 100px;
+      display: flex;
+      color: black;
+      font-size: 20px;
+}
+#Tewlve
+{
+    margin-left: 300px;
+
+}
+#Thirteen
+{ 
+    margin-left: 300px; 
+
+}
+#forteen
+{
+    height: 100px;
+    display: inline-block;
+    margin-left: 600px;
+    #ft
+    {
+    text-size-adjust: 80%;
+        background-color:red;
+    } 
+}
+h3{
+    color: black;
+    font-size: 30px;
+}
+p{
+    color:black;
+  font-size: 20px;
+}
